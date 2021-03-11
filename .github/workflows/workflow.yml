@@ -2,7 +2,7 @@ name: main-worklfow
 
 env: 
   ACTIONS_ALLOW_UNSECURE_COMMANDS: true
-  IMAGE_REPOSITORY: busser/foobar
+  IMAGE_REPOSITORY: alanbentley/foobar
 
 on:
   push:
